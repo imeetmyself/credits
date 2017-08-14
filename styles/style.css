@@ -112,9 +112,10 @@ h2 + p {
 
 p, li {
     font-size: 1.6rem;
-    line-height: 1.5;
+    line-height: 1rem;
     letter-spacing: 0.5px;
     word-spacing: 3px;
+    text-align: center;
 }
 
 /* Link styling */
